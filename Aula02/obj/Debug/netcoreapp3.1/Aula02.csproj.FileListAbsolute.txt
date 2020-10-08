@@ -1,0 +1,13 @@
+C:\Projetos\My-CSharp-Studies\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+C:\Projetos\My-CSharp-Studies\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+C:\Projetos\My-CSharp-Studies\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+C:\Projetos\My-CSharp-Studies\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+C:\Projetos\My-CSharp-Studies\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+C:\Projetos\My-CSharp-Studies\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+C:\Projetos\My-CSharp-Studies\Aula02\obj\Debug\netcoreapp3.1\Aula02.csprojAssemblyReference.cache
+C:\Projetos\My-CSharp-Studies\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+C:\Projetos\My-CSharp-Studies\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+C:\Projetos\My-CSharp-Studies\Aula02\obj\Debug\netcoreapp3.1\Aula02.csproj.CoreCompileInputs.cache
+C:\Projetos\My-CSharp-Studies\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+C:\Projetos\My-CSharp-Studies\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
+C:\Projetos\My-CSharp-Studies\Aula02\obj\Debug\netcoreapp3.1\Aula02.genruntimeconfig.cache
